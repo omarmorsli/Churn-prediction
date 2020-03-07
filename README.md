@@ -1,7 +1,7 @@
 # Churn-prediction
 
 
-TELCO inc is a phoning company facing a churn problem. They collected a dataset on their past customers and ask you to: 
+Phoning companies are always facing churn problems. One of these companies has collected a dataset on their past customers and asks to: 
 
 1/ rank their customers according to the probability of churn 
 
